@@ -1,19 +1,17 @@
 {
     "posts": [{
-            "userId": 1,
             "id": 1,
-            "titulo": "titulo de la noticia",
-            "body": "Cuerpo de la noticia"
+            "title": "hello"
         }, {
-            "userId": 2,
             "id": 2,
-            "titulo": "titulo de la noticia",
-            "body": "Cuerpo de la noticia",
+            "title": "hello"
         }, {
-            "userId": 3,
             "id": 3,
-            "titulo": "titulo de la noticia",
-            "body": "Cuerpo de la noticia",
+            "title": "hello"
         }
-    ]
+
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
