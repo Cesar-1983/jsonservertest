@@ -1,17 +1,19 @@
-[{
-        "userId": 1,
-        "id": 1,
-        "titulo": "titulo de la noticia",
-        "body": "Cuerpo de la noticia"
-    }, {
-        "userId": 2,
-        "id": 2,
-        "titulo": "titulo de la noticia",
-        "body": "Cuerpo de la noticia",
-    }, {
-        "userId": 3,
-        "id": 3,
-        "titulo": "titulo de la noticia",
-        "body": "Cuerpo de la noticia",
-    }
-]
+{
+    "posts": [{
+            "userId": 1,
+            "id": 1,
+            "titulo": "titulo de la noticia",
+            "body": "Cuerpo de la noticia"
+        }, {
+            "userId": 2,
+            "id": 2,
+            "titulo": "titulo de la noticia",
+            "body": "Cuerpo de la noticia",
+        }, {
+            "userId": 3,
+            "id": 3,
+            "titulo": "titulo de la noticia",
+            "body": "Cuerpo de la noticia",
+        }
+    ]
+}
